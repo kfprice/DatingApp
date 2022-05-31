@@ -13,5 +13,5 @@ export class PreventUnsavedChangesGuard implements CanDeactivate<unknown> {
     }
     return true;
   }
-  
+
 }
